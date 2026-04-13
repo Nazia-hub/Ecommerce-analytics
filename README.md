@@ -1,6 +1,9 @@
 End-to-End Data Analytics Project 
+
 E-Commerce Analytics System
+
 Full relational database for:
+
 Customers
 Orders
 Products
